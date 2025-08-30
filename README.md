@@ -1,3 +1,7 @@
 # The art of the vibe
 
-Welcome, 🐸 frens.  We gather here today to sit around the fire 🪵🔥 and 🙉 listen to the vibes 🗣️💬 of the (To be continued...)
+Welcome, 🐸 frens.  We gather here today to sit around the fire 🪵🔥 and 🙉 listen to the vibes 🗣️💬 of the mind.
+
+**Vibes of the times:**
+
+ - [20250830](./blog/20250830.md)

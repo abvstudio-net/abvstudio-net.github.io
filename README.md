@@ -5,3 +5,4 @@ Welcome, 🐸 frens.  We gather here today to sit around the fire 🪵🔥 and �
 **Vibes of the times:**
 
  - [20250830](./blog/20250830.md)
+ - [20250901](./blog/20250901.md)

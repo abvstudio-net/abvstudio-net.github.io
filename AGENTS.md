@@ -1,0 +1,1 @@
+Never build this MKDocs site locally for any reason - it's meant to be deployed via GitHub Actions and we don't need to test it.

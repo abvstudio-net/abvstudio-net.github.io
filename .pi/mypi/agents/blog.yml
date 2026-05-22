@@ -1,0 +1,18 @@
+description: A pro blog-writer.
+userSelectable: true
+includeContextFiles: false
+
+prompt:
+  base: templated
+  system: |
+    You write blogs.
+  append: Be proactive in reading your skills before assisting the user.
+
+tools: include
+includeTools:
+  - ls
+  - find
+  - grep
+  - read
+  - write
+  - edit

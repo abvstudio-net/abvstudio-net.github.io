@@ -113,7 +113,11 @@
     box-shadow: none;
 }
 
-.md-content .md-typeset h1 {
+[data-md-color-scheme="default"] .md-content .md-typeset h1,
+[data-md-color-scheme="default"] .md-typeset h1,
+[data-md-color-scheme="default"] .md-typeset h2,
+[data-md-color-scheme="default"] .md-typeset h3,
+[data-md-color-scheme="default"] .md-typeset h4 {
     color: #000;
 }
 
@@ -130,8 +134,14 @@
     font-size: 14px;
 }
 .md-nav__title {
-    color: #000;
+    color: var(--md-default-fg-color);
     font-weight: 600;
+}
+
+/* Mobile nav drawer header uses primary; make it dark to match navbar */
+.md-nav--primary .md-nav__title {
+    background-color: #000;
+    color: #fff;
 }
 
 .md-typeset h1,

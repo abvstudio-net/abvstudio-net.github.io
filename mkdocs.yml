@@ -1,8 +1,7 @@
 site_name: abvstudio-net.github.io
 site_description: Personal GitHub Pages blog
-site_url: https://abvstudio-net.github.io/
-repo_url: https://github.com/abvstudio-net/abvstudio-net.github.io
-repo_name: abvstudio-net.github.io
+site_url: https://abvstudio.net/
+
 
 docs_dir: docs
 

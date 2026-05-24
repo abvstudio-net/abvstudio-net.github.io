@@ -33,6 +33,8 @@ theme:
 
 nav:
   - Home: index.md
+  - p5js:
+    - p5js-example: p5js/p5js-example.md
 
 markdown_extensions:
   - admonition

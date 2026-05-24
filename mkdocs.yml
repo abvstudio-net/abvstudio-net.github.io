@@ -5,6 +5,9 @@ site_url: https://abvstudio.net/
 
 docs_dir: docs
 
+hooks:
+  - hooks.py
+
 theme:
   name: material
   logo: assets/logo.svg

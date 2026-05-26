@@ -106,7 +106,7 @@
 
 /* Header styling */
 .md-header {
-    background-color: #000;
+    background-color: transparent;
 }
 
 .md-header--shadow {
@@ -140,8 +140,8 @@
 
 /* Mobile nav drawer header uses primary; make it dark to match navbar */
 .md-nav--primary .md-nav__title {
-    background-color: #000;
-    color: #fff;
+    background-color: transparent;
+    color: inherit;
 }
 
 .md-typeset h1,
